@@ -1,0 +1,37 @@
+C:\Users\Matheuzin\Desktop\Crud do petshop\obj\Debug\net5.0\Crud do petshop.csproj.AssemblyReference.cache
+C:\Users\Matheuzin\Desktop\Crud do petshop\obj\Debug\net5.0\Crud do petshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheuzin\Desktop\Crud do petshop\obj\Debug\net5.0\Crud do petshop.AssemblyInfoInputs.cache
+C:\Users\Matheuzin\Desktop\Crud do petshop\obj\Debug\net5.0\Crud do petshop.AssemblyInfo.cs
+C:\Users\Matheuzin\Desktop\Crud do petshop\obj\Debug\net5.0\Crud do petshop.csproj.CoreCompileInputs.cache
+C:\Users\Matheuzin\Desktop\Crud do petshop\obj\Debug\net5.0\Crud do petshop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Matheuzin\Desktop\Crud do petshop\obj\Debug\net5.0\Crud do petshop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\appsettings.json
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\Crud do petshop.exe
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\Crud do petshop.deps.json
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\Crud do petshop.runtimeconfig.json
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\Crud do petshop.runtimeconfig.dev.json
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\Crud do petshop.dll
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\ref\Crud do petshop.dll
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\Crud do petshop.pdb
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Matheuzin\Desktop\Crud do petshop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Matheuzin\Desktop\Crud do petshop\obj\Debug\net5.0\staticwebassets\Crud do petshop.StaticWebAssets.Manifest.cache
+C:\Users\Matheuzin\Desktop\Crud do petshop\obj\Debug\net5.0\staticwebassets\Crud do petshop.StaticWebAssets.xml
+C:\Users\Matheuzin\Desktop\Crud do petshop\obj\Debug\net5.0\scopedcss\bundle\Crud do petshop.styles.css
+C:\Users\Matheuzin\Desktop\Crud do petshop\obj\Debug\net5.0\Crud do petshop.RazorTargetAssemblyInfo.cache
+C:\Users\Matheuzin\Desktop\Crud do petshop\obj\Debug\net5.0\Crud do petshop.dll
+C:\Users\Matheuzin\Desktop\Crud do petshop\obj\Debug\net5.0\ref\Crud do petshop.dll
+C:\Users\Matheuzin\Desktop\Crud do petshop\obj\Debug\net5.0\Crud do petshop.pdb
+C:\Users\Matheuzin\Desktop\Crud do petshop\obj\Debug\net5.0\Crud do petshop.genruntimeconfig.cache
